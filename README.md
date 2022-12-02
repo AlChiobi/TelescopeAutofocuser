@@ -19,6 +19,8 @@
 
 ## GUI navigation :dizzy:
 
+![GUI!](/imgs/TelescopeAutofocuser.PNG "GUI!")
+
 ### Autofocus Telescope
  > Rotates focuser from maximum to minimum position whiel scanning camera into an image array and Identifies the most focused image in array and adjusts foccuser to be at the optimal position for 
 ### Image Capture
