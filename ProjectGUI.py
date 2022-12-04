@@ -160,7 +160,6 @@ def goToPositionFromScan(idx):
     mc.stride(op)
 def optimizeImage(fileDirectory):
     target = cv2.imread(fileDirectory, cv2.IMREAD_COLOR)
-    target = cv2.cvtColor(target, cv2.COLOR_BGR2YCrCb)
 
     filename = Path(fileDirectory).stem
 
